@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React App Rewired Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and `react-app-rewired`. Apary from existing scripts, `lint` and `lint:fix` are provided to report and fix lint issues. These are restricted to `*.ts` and `*.tsx` files. Feel free to update this template and create new pull request. Suggestions on improvement are always welcome.
 
 ## Available Scripts
 

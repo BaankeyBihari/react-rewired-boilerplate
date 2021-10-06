@@ -52,7 +52,7 @@
   "devDependencies": {
     "@types/axios": "0.14.0",
     "@types/bootstrap": "5.0.16",
-    "@types/react-bootstrap": "0.32.25",
+    "@types/react-bootstrap": "0.32.26",
     "@types/styled-components": "5.1.10",
     "babel-plugin-root-import": "6.6.0",
     "eslint-config-prettier": "8.3.0",
